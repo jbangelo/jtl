@@ -1,5 +1,5 @@
+#include <type_traits>
 #include <gtest/gtest.h>
-
 #include <jtl/type_traits.hpp>
 
 namespace {
