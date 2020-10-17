@@ -1,0 +1,7 @@
+dist: bionic
+language: cpp
+compiler:
+  - clang
+  - gcc
+
+script: ./ci/run_tests.sh
